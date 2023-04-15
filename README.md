@@ -8,6 +8,10 @@
  <p>-Css<p>
  <br>
  <br>
+ <a>Home<a>
+ <a>Work<a>
+ <a>About<a>
+ <a>Contact<a>
  
  <img src="https://github.com/Renan2710/Easy-Shopping/blob/master/img/easy%20desktop.png?raw=true">
  
